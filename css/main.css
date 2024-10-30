@@ -1,0 +1,90 @@
+
+/*
+	blue:	#506fa1
+	grey:	#3f3f3f
+*/
+
+#fbfeedHolder H1{
+	color:#3F3F3F;
+	font-family:Arial black,Arial,Helvetica;
+	font-size:32px;
+	font-weight:bold;
+	letter-spacing:-2px;
+	margin:0;
+	padding:0;
+}
+
+#fbfeedHolder H2{
+	Font-size:14px;
+	font-weight:bold;
+	
+	color:#3f3f3f;
+	padding:0;
+	margin:0;
+}
+
+#fbfeedHolder H3{
+	color:#506fa1;
+	 color:#ff8103; 
+	/* color:#ff3300; */
+	
+	padding:0;
+	margin:0;
+	font-weight:bold;
+	font-size:18px;
+	margin:20px 0px 10px 0px;
+}
+
+.void{
+	clear:both;
+}
+
+#fbfeedHolder{
+	width:740px;
+	
+}
+
+.pageHeader{
+	
+}
+
+.hpColumn{
+	width:330px;
+	float:left;
+	padding:20px 0px;
+	font-size:12px;
+	line-height:20px;
+}
+.profileHolder{
+	border-bottom:1px solid #CCC;
+	margin-bottom:20px;
+	clear:both;
+	height:55px;
+	font-size:18px;
+	font-weight:bold;
+	color:#888;
+}
+.profileHolder img{
+	float:left;
+	margin-right:10px;
+	width:50px;
+}
+
+.profileHolder span{
+	color:#506fa1;
+	font-weight:bold;
+	font-size:11px;
+}
+
+
+.editTab{
+	background-image:url(../images/editTab.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+
+.addTab{
+	background-image:url(../images/addTab.png);
+	background-repeat:no-repeat;
+	background-position:right center;
+}
